@@ -1,6 +1,9 @@
-# dataviz-story-build-6
+# dataviz-story
 DataVizForAll.org story using modified Bootstrap
 
-## Live view of Data Story for Build 6
-https://keelymac32.github.io/Keelyn-Data-Story-Build-6/
+## Live view
+https://datavizforall.github.io/clj-mcnamara
+
+## forked from
+https://github.com/keelymac32/Keelyn-Data-Story-Build-6/
 
